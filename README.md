@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skyrocketclub
+- 👋 Hi, I’m ugo
 - 👀 I’m interested in C++ programming
 - 💞️ I’m looking to collaborate on C++
 - 📫 How to reach me -> kitisugochukwu@gmail.com
