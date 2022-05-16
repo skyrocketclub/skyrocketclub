@@ -1,6 +1,5 @@
 - 👋 Hi, I’m ugo
-- 👀 I’m interested in C++ programming
-- 💞️ I’m looking to collaborate on C++
+- 👀 C++, Qt and QML developer
 - 📫 How to reach me -> kitisugochukwu@gmail.com
 
 <!---
