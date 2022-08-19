@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ugo
-- 👀 C++, Qt and QML developer
+- 👀C, C++ ,QT, QML & Firmware Developer
 - 📫 How to reach me -> kitisugochukwu@gmail.com
 
 <!---
