@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ugo
-- 👀C, C++ ,QT, QML & Firmware Developer
+- 👀Unity VR Developer
 - 📫 How to reach me -> kitisugochukwu@gmail.com
 
 <!---
